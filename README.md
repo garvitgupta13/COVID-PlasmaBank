@@ -21,7 +21,7 @@ A web application to manage the plasma banks.
 ### To run it in your localserver:
  - Download the folder.
  - Save the folder in `wapm64/www/` location.
- - Import `rakt.sql` at [http://localhost/phpmyadmin/server_import.php](http://localhost/phpmyadmin/server_import.php) to setup database.
+ - Import `rakt_final.sql` at [http://localhost/phpmyadmin/server_import.php](http://localhost/phpmyadmin/server_import.php) to setup database.
  - Go to [http://localhost/COVID-PlasmaBank-master/plasma.php](http://localhost/COVID-PlasmaBank-master/plasma.php) to explore more.
  
 
