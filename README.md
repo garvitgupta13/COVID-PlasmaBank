@@ -10,7 +10,7 @@ A web application to manage the plasma banks.
   
 - <b> Volunteer-Side: </b>
   - Register as a volunteer.
-  - Donate at your near plasma-bank after being verified by the user.
+  - Donate at your near plasma-bank after being verified by the admin.
   
 - <b> Admin-Roles: </b>
   - Verify patients.
